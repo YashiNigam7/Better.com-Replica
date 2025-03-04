@@ -1,0 +1,23 @@
+/* Home Page */
+.home-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.home-container h1 {
+  font-size: 3em;
+}
+
+/* About Us Page */
+.about-us-container {
+  padding: 20px;
+  text-align: center;
+}
+
+/* Add media queries for responsiveness */
+@media (max-width: 768px) {
+  .home-container {
+    font-size: 1.2em;
+  }
+}
+
